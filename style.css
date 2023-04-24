@@ -90,9 +90,8 @@
 }
 
 /* New Task */
-.section-title[for="new-task"] {
-    display: block;
-    margin: 0 0 20px;
+.task-row-wrapper {
+    margin: 20px 0 0;
 }
 .input-text#new-task {
     width: 318px;
